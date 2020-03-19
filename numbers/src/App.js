@@ -15,7 +15,7 @@ export default function App() {
     <Provider store={store}>
       <div className="App">
         <h1>Numbers</h1>
-        <p>Let numbers tell you a tales about themselves</p>
+        <h5>Let numbers tell you a tales about themselves</h5>
         <NumberForm />
         <NumberInfo />
       </div>
